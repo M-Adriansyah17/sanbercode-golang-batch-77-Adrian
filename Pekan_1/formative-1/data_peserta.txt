@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: M. Adriansyah
+2. Email: adriansyah1032@gmail.com
+3. Sistem Operasi yang digunakan:Windows
+4. Akun Github: M-Adriansyah17
+5. Akun Telegram: M.Adriansyah
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : MAHASISWA
+7. Umur:19 Tahun
+8. Pernah menggunakan Go? : Belum Pernah
+9. Bahasa Pemrograman yg pernah dipelajari:C++, Python, Html, Css, JavaScript.
+10. Pernah membuat REST API? : Belum Pernah
